@@ -1,2 +1,0 @@
-# bokehbear
-# bokehbear.com repo
